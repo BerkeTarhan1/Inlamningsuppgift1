@@ -1,0 +1,17 @@
+C:\Users\Berke\Desktop\skola\Csharp\Inlamningsuppgift_01\Assignment\bin\Debug\net7.0\Assignment.exe
+C:\Users\Berke\Desktop\skola\Csharp\Inlamningsuppgift_01\Assignment\bin\Debug\net7.0\Assignment.deps.json
+C:\Users\Berke\Desktop\skola\Csharp\Inlamningsuppgift_01\Assignment\bin\Debug\net7.0\Assignment.runtimeconfig.json
+C:\Users\Berke\Desktop\skola\Csharp\Inlamningsuppgift_01\Assignment\bin\Debug\net7.0\Assignment.dll
+C:\Users\Berke\Desktop\skola\Csharp\Inlamningsuppgift_01\Assignment\bin\Debug\net7.0\Assignment.pdb
+C:\Users\Berke\Desktop\skola\Csharp\Inlamningsuppgift_01\Assignment\obj\Debug\net7.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berke\Desktop\skola\Csharp\Inlamningsuppgift_01\Assignment\obj\Debug\net7.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\Berke\Desktop\skola\Csharp\Inlamningsuppgift_01\Assignment\obj\Debug\net7.0\Assignment.AssemblyInfo.cs
+C:\Users\Berke\Desktop\skola\Csharp\Inlamningsuppgift_01\Assignment\obj\Debug\net7.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Berke\Desktop\skola\Csharp\Inlamningsuppgift_01\Assignment\obj\Debug\net7.0\Assignment.dll
+C:\Users\Berke\Desktop\skola\Csharp\Inlamningsuppgift_01\Assignment\obj\Debug\net7.0\refint\Assignment.dll
+C:\Users\Berke\Desktop\skola\Csharp\Inlamningsuppgift_01\Assignment\obj\Debug\net7.0\Assignment.pdb
+C:\Users\Berke\Desktop\skola\Csharp\Inlamningsuppgift_01\Assignment\obj\Debug\net7.0\Assignment.genruntimeconfig.cache
+C:\Users\Berke\Desktop\skola\Csharp\Inlamningsuppgift_01\Assignment\obj\Debug\net7.0\ref\Assignment.dll
+C:\Users\Berke\Desktop\skola\Csharp\Inlamningsuppgift_01\Assignment\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Berke\Desktop\skola\Csharp\Inlamningsuppgift_01\Assignment\obj\Debug\net7.0\Assignment.csproj.AssemblyReference.cache
+C:\Users\Berke\Desktop\skola\Csharp\Inlamningsuppgift_01\Assignment\obj\Debug\net7.0\Assignment.csproj.CopyComplete
